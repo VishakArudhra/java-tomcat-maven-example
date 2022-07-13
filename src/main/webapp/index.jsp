@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Displaying the latest commit!</h2>
+<h2>Hello World! Streaming Deployments!</h2>
 </body>
 </html>
